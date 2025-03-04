@@ -5,9 +5,9 @@ Freaky Hub is a powerful and user-friendly **Script Hub** designed to help you b
 - **Bubble Gum Infinity** 🫧
 ---
 
-## 🛠️ Installation
+## 🛠️ Help
 
-1. Get a Roblox script executor (Xeno supported!)
+1. Get a Roblox script executor (Xeno supported)
 2. Copy and paste the latest **Freaky Hub script** into your executor.
 3. Execute the script and done!
 4. Complete the **key system** to access the hub.
