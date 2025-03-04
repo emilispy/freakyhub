@@ -2,7 +2,7 @@
 Freaky Hub is a powerful and user-friendly **Script Hub** designed to help you become the best.
 
 #### Supported Games 🕹️
-- **Bubble Gum Infinity** 🫧
+- **Bubble Gum Simulator Infinity** 🫧
 ---
 
 ## 🛠️ Help
