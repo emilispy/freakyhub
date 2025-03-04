@@ -9,16 +9,6 @@ With frequent updates, new features, and an active community, Freaky Hub is your
 
 ---
 
-## 🚀 Features
-
-✅ Auto Farm  
-✅ Auto Collect  
-✅ Fast & Optimized Performance  
-✅ Secure Key System  
-✅ Regular Updates & Bug Fixes  
-
----
-
 ## 🛠️ Installation
 
 1. Get a Roblox script executor (Xeno supported!)
@@ -28,7 +18,7 @@ With frequent updates, new features, and an active community, Freaky Hub is your
 
 ---
 
-## 📜 Supported Games & Updates
+## 📜 Update Log
 
 ### 🏆 Bubble Gum Infinity
 
