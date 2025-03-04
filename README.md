@@ -19,8 +19,8 @@ With frequent updates, new features, and an active community, Freaky Hub is your
 
 ## 📜 Update Log
 
-#### Latest Update (v1.0.0):
-- [x] **Nothing, waiting for game to release :(**
+#### Version 1.0.0 📃
+- [x] **Nothing, waiting for game to release.**
 
 ---
 
