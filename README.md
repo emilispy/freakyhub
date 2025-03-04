@@ -34,9 +34,9 @@ With frequent updates, new features, and an active community, Freaky Hub is your
 
 ---
 
-## 🔗 Links
+## 🔗 Socials
 
-[![Join Discord](https://discord.gg/frrnMQbrSu)  
+[Discord](https://discord.gg/frrnMQbrSu)
 
 ---
 
