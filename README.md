@@ -1,12 +1,8 @@
 # 👅 Freaky Hub
-
-Freaky Hub is a powerful and user-friendly **Script Hub** designed to help you become the best in bgsi.
+Freaky Hub is a powerful and user-friendly **Script Hub** designed to help you become the best.
 
 #### Supported Games 🕹️
 - **Bubble Gum Infinity** 🫧
-
-With frequent updates, new features, and an active community, Freaky Hub is your go-to script for dominating these games!
-
 ---
 
 ## 🛠️ Installation
