@@ -36,7 +36,7 @@ With frequent updates, new features, and an active community, Freaky Hub is your
 
 ## 🔗 Links
 
-[![Join Discord](https://static.vecteezy.com/system/resources/previews/018/930/500/non_2x/discord-logo-discord-icon-transparent-free-png.png)](https://discord.gg/frrnMQbrSu)  
+[![Join Discord](https://discord.gg/frrnMQbrSu)  
 
 ---
 
