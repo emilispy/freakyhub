@@ -44,7 +44,7 @@ KeyInput.PlaceholderColor3 = Color3.fromRGB(144, 144, 144)
 KeyInput.PlaceholderText = "Key here . . ."
 KeyInput.Text = ""
 KeyInput.TextColor3 = Color3.fromRGB(0, 0, 0)
-KeyInput.TextSize = 25.000
+KeyInput.TextScaled = true
 
 UICorner_2.Parent = KeyInput
 
@@ -60,7 +60,6 @@ Title.Font = Enum.Font.Unknown
 Title.Text = "Discord Verification"
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 Title.TextScaled = true
-Title.TextSize = 14.000
 Title.TextWrapped = true
 
 Name.Name = "Name"
@@ -75,7 +74,6 @@ Name.Font = Enum.Font.Unknown
 Name.Text = "Freaky Hub "
 Name.TextColor3 = Color3.fromRGB(255, 255, 255)
 Name.TextScaled = true
-Name.TextSize = 14.000
 Name.TextWrapped = true
 
 Version.Name = "Version"
@@ -90,7 +88,6 @@ Version.Font = Enum.Font.Unknown
 Version.Text = "v1.0.0"
 Version.TextColor3 = Color3.fromRGB(255, 255, 255)
 Version.TextScaled = true
-Version.TextSize = 14.000
 Version.TextWrapped = true
 
 icon.Name = "icon"
@@ -115,7 +112,7 @@ CopyInvite.Size = UDim2.new(0, 113, 0, 25)
 CopyInvite.Font = Enum.Font.Unknown
 CopyInvite.Text = "Copy invite"
 CopyInvite.TextColor3 = Color3.fromRGB(255, 255, 255)
-CopyInvite.TextSize = 20.000
+CopyInvite.TextScaled = true
 
 Confirm.Name = "Confirm"
 Confirm.Parent = MainFrame
@@ -127,6 +124,6 @@ Confirm.Size = UDim2.new(0, 50, 0, 50)
 Confirm.Font = Enum.Font.Unknown
 Confirm.Text = "✔️"
 Confirm.TextColor3 = Color3.fromRGB(255, 255, 255)
-Confirm.TextSize = 40.000
+Confirm.TextScaled = true
 
 UICorner_4.Parent = Confirm
