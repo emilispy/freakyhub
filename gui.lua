@@ -12,6 +12,7 @@ local UICorner_3 = Instance.new("UICorner")
 local CopyInvite = Instance.new("TextButton")
 local Confirm = Instance.new("TextButton")
 local UICorner_4 = Instance.new("UICorner")
+local UICorner_5 = Instance.new("UICorner")
 
 DiscordVerification.Name = "DiscordVerification"
 DiscordVerification.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
@@ -101,6 +102,7 @@ CopyInvite.Text = "Copy invite"
 CopyInvite.TextColor3 = Color3.fromRGB(255, 255, 255)
 CopyInvite.TextSize = 20
 CopyInvite.FontFace = Font.new("rbxasset://fonts/families/ComicNeueAngular.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal)
+UICorner_5.Parent = CopyInvite
 
 Confirm.Name = "Confirm"
 Confirm.Parent = MainFrame
